@@ -2,7 +2,7 @@
 <html>
 <h1><a href="https://www.blueformbuilder.com/blue-form-builder-form-products.html">Blue Form Builder Form Products plugin</a></h1>
 <br/><br/>
-<table border="1">
+<table>
   <td width="30%" valign="top"style="border: none; ">
     <br><a href="https://www.blueformbuilder.com/blue-form-builder-form-products.html"><img src="https://www.blueformbuilder.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/f/o/formproducts.png" alt="Form Products plugin" aria-labelledby="labelledby1538119274381" class="fotorama__img" aria-hidden="false"/><p>
       <td style="border:none;"></br>
