@@ -1,6 +1,6 @@
 <html>
 <html>
-<h1><a href="https://www.blueformbuilder.com/blue-form-builder-form-products.html">Blue Form Builder Form Products plugin</a></h1>
+<h1><a href="https://www.blueformbuilder.com/blue-form-builder-form-products.html">Blue Form Builder - Form Products Plugin</a></h1>
 <br/><br/>
 <table>
   <td width="30%" valign="top"style="border: none; ">
