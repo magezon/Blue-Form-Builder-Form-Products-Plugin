@@ -10,7 +10,7 @@
           <div class="valune">
   <p>
 Assign form to specific products. Support 3 types: inline, popup, form link.</p>
-<p>This plugins is a part of the <a href="https://www.blueformbuilder.com/magento-2-form-builder.html">Blue Form Builder</a>, one of the most powerful form extension on Magento2.</p>
+<p>This plugins is a part of the <a href="https://www.blueformbuilder.com">Blue Form Builder</a>, one of the most powerful form extension on Magento2.</p>
           <ul class="firebase-list">
 </div>
 </div>
