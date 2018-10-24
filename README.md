@@ -39,7 +39,7 @@
                 <p><span id="docs-internal-guid-4354b4c6-7fff-6aa2-1d30-e283eded70da"><span>So how to solve this? Of course, the best way is to let your customers contact you directly from the product page. And </span><strong>Form Products</strong><span> plugin will help you do that. </span></span></p>
                 <p></p>
 <h2>Feature Highlights </h2>
-<table border="">
+<table>
     <tbody>
         <tr>
             <td width="50%">
@@ -152,13 +152,12 @@
 </div>
 <button class="accordion">Can I add multiple forms to a product page?</button>
 <div class="panel">
-  <p><img title="Form Products | Add multiple forms in a postion on product page" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/Form_Products___Add_multiple_forms_in_a_posititon.png" alt="Form Products | Add multiple forms in a postion on product page"/>
 <p>Yes, you can add as many forms to a product page as you want.</p>
 </div>
 <button class="accordion">Can I add multiple forms in a position?</button>
 <div class="panel">
 <p>Yes, of course. You can add multiple forms in a position, like this:</p>
-<p><img title="Form Products | Add multiple forms in a postion on product page" src="{{media url="wysiwyg/extension/blueformbuilder/Form_Products___Add_multiple_forms_in_a_posititon.png"}}" alt="Form Products | Add multiple forms in a postion on product page" width="1920" height="1001" /></p>
+<p><img title="Form Products | Add multiple forms in a postion on product page" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/Form_Products___Add_multiple_forms_in_a_posititon.png" alt="Form Products | Add multiple forms in a postion on product page"/>
 <p><span id="docs-internal-guid-b10b9342-7fff-1bbb-74d4-cbe604490143"><span>You can decide which form will come first in the position. To do this, open a form in the backend. Then go to </span><strong><a href="http://blueformbuilder.m2.magezon.com/autologin/backend?r=blueformbuilder/form/edit&amp;id=17&amp;active=settings_general" target="_blank">Settings &gt; General</a></strong><span>. In this section, you will see a field named “Position”. Enter a number in this field. The form with smaller number will come first</span></span>.</p>
 </div>
 </div>
