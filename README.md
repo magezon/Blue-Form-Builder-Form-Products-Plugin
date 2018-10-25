@@ -26,10 +26,9 @@
                             </ul>
                             <div>Here are forms that are commonly added to the product page: Request for quotation form, FAQ form, Request a call back form and Ticket form. </div>
                             <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;"><strong>Form Products</strong> is a plugin of <a title="Blue Form Builder | Magento 2 Form Builder" href="https://www.blueformbuilder.com" target="_blank">Magento 2 Blue Form Builder</a>. After installation, it will be integrated with existing Blue Form Builder extension on your website.</p>
-                <div class="compatibility">A must-have feature of Magento 2 Ajax Cart Pro extensions is to have a very fast speed of loading, thus bringing the best shopping experience to Customers
                 <span class="compatibility"><b>Community Edition:</b> 2.0.x - 2.2.x
                 <b>Enterprise Edition:</b> 2.0.x - 2.2.x</span>
-                </div></td>
+                </td>
                 </tr>
                 </table>
                 <br/>
@@ -141,35 +140,37 @@
 <h2>Frequently Asked Questions</h2>
 <p>Do you have any questions about <strong>Form Products</strong> plugin? See the list below for our most frequently asked questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact/" target="_blank" rel="nofollow">contact us</a>.</p>
 <div class="row">
-<div class="col-md-6"><button class="accordion">Installation Instructions?</button>
+<div class="col-md-6">
+  <h3><button class="accordion">Installation Instructions?</button></h3>
 <div class="panel">
 <p>To install the plugin, please refer to <a title="Form Products Installation Guide" href="https://magezon.com/pub/media/productfile/blueformbuilder-v1.0.0-installation-guides.pdf" target="_blank"><strong>this document</strong></a> for detailed instructions. It will take you just a few minutes to install our plugin.</p>
 </div>
-<button class="accordion">Where can I find this plugin after installation?</button>
+<h3><button class="accordion">Where can I find this plugin after installation?</button></h3>
 <div class="panel">
 <p>After installing this plugin, you can find it in the settings of every form. Open a form’s settings. Then click on “<a title="Form Products plugin" href="http://blueformbuilder.m2.magezon.com/autologin/backend?r=blueformbuilder/form/edit&amp;id=17&amp;active=plugins" target="_blank"><strong>Plugins</strong></a>” tab. You will see the plugin in<strong> Form Products </strong>tab.</p>
 <p><img title="Form Products | Find plugin in backend" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/Form_Products_Find_plugin_in_backend.png" alt="Form Products | Find plugin in backend"/></p>
 </div>
-<button class="accordion">Can I add multiple forms to a product page?</button>
+<h3><button class="accordion">Can I add multiple forms to a product page?</button></h3>
 <div class="panel">
 <p>Yes, you can add as many forms to a product page as you want.</p>
 </div>
-<button class="accordion">Can I add multiple forms in a position?</button>
+<h3><button class="accordion">Can I add multiple forms in a position?</button></h3>
 <div class="panel">
 <p>Yes, of course. You can add multiple forms in a position, like this:</p>
 <p><img title="Form Products | Add multiple forms in a postion on product page" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/Form_Products___Add_multiple_forms_in_a_posititon.png" alt="Form Products | Add multiple forms in a postion on product page"/>
 <p><span id="docs-internal-guid-b10b9342-7fff-1bbb-74d4-cbe604490143"><span>You can decide which form will come first in the position. To do this, open a form in the backend. Then go to </span><strong><a href="http://blueformbuilder.m2.magezon.com/autologin/backend?r=blueformbuilder/form/edit&amp;id=17&amp;active=settings_general" target="_blank">Settings &gt; General</a></strong><span>. In this section, you will see a field named “Position”. Enter a number in this field. The form with smaller number will come first</span></span>.</p>
 </div>
 </div>
-<div class="col-md-6"><button class="accordion">I want to display my form in other positions on the product page that you don’t support? How can I do that?</button>
+<div class="col-md-6">
+  <h3><button class="accordion">I want to display my form in other positions on the product page that you don’t support? How can I do that?</button></h3>
 <div class="panel">
 <p>If you do not find your wanted positions to display the form on product page, you can <a href="https://www.magezon.com/contact" target="_blank">contact us</a> and we will help you.</p>
 </div>
-<button class="accordion">I cannot choose the Magento edition to install this plugin. Why?</button>
+<h3><button class="accordion">I cannot choose the Magento edition to install this plugin. Why?</button></h3>
 <div class="panel">
 <p>Because<strong> Form Products</strong> is a plugin of Blue Form Builder extension, the Magento edition for its installation will be decided by the edition you choose for Blue Form Builder.</p>
 </div>
-<button class="accordion"> How can I get your support?</button>
+<h3><button class="accordion"> How can I get your support?</button></h3>
 <div class="panel">
 <p>If you have any questions or need any support, feel free to contact us via following ways. We will get back to you within 24 hours since you submit your support request.</p>
 <ul class="firebase-list">
