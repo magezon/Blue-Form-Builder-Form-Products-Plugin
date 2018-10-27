@@ -1,4 +1,9 @@
-<h1><a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Blue Form Builder Extension</a></h1><br/>
+<div class="page-title-wrapper product">
+<h1 class="page-title ">
+<span>Form Products Plugin | Blue Form Builder </span>
+<p class="small-desc">Add Forms on Product Page</p>
+</h1>
+</div>
 <br/>
 <table>
     <tr>
