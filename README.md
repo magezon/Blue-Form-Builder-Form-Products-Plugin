@@ -6,15 +6,12 @@
       border: none;
   ">
           <br>
-            <br><a href="https://www.magezon.com/magento-2-form-builder.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/b/l/blueformbuilder.png" alt="Magento 2 Form Builder | Easy &amp; Powerful" aria-labelledby="labelledby1540363536656" class="fotorama__img" aria-hidden="false">
+            <br><a href="https://www.magezon.com/magento-2-form-builder.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/f/o/form-products.png" alt="Form Products" aria-labelledby="labelledby1540623254650" class="fotorama__img" aria-hidden="false"/>
                 <td style="border:none;">
                     <br>
                     <div class="product attribute overview">
                         <div class="value">
                           <div class="valune">
-                            <p>We believe that you don’t need to hire a developer to create a Magento 2 form. That’s why we built Blue Form Builder, a drag & drop<strong> Magento 2 form builder</strong> extension that’s EASY and POWERFUL.</p>
-                            <p><span><span></span></span></p>
-                            <p dir="ltr"><span><span></span></span></p>
                             <p dir="ltr"><strong>Form Products</strong><span> plugin allows you to assign forms to specific products. This way, your customers can contact you right from the product page if they have any questions about the product.</span></p>
                             <ul class="firebase-list">
                             <ul class="firebase-list">
@@ -25,7 +22,7 @@
                             </ul>
                             </ul>
                             <div>Here are forms that are commonly added to the product page: Request for quotation form, FAQ form, Request a call back form and Ticket form. </div>
-                            <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;"><strong>Form Products</strong> is a plugin of <a title="Blue Form Builder | Magento 2 Form Builder" href="https://www.blueformbuilder.com" target="_blank">Magento 2 Blue Form Builder</a>. After installation, it will be integrated with existing Blue Form Builder extension on your website.</p>
+                           <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;"><strong>Form Products</strong>&nbsp;is a plugin of&nbsp;<a title="Blue Form Builder | Magento 2 Form Builder" href="https://www.blueformbuilder.com" target="_blank">Magento 2 Blue Form Builder</a>.&nbsp;After installation, it will be integrated with existing Blue Form Builder extension on your website.</p>
                 <span class="compatibility"><b>Community Edition:</b> 2.0.x - 2.2.x
                 <b>Enterprise Edition:</b> 2.0.x - 2.2.x</span>
                 </td>
