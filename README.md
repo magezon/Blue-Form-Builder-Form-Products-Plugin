@@ -1,7 +1,7 @@
 <div class="page-title-wrapper product">
 <h1 class="page-title ">
 <span>Form Products Plugin | Blue Form Builder </span>
-<p class="small-desc">Add Forms on Product Page</p>
+<p>Add Forms on Product Page</p>
 </h1>
 </div>
 <br/>
