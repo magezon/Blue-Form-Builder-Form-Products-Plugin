@@ -27,9 +27,10 @@
                             </ul>
                             </ul>
                             <div>Here are forms that are commonly added to the product page: Request for quotation form, FAQ form, Request a call back form and Ticket form. </div>
-                           <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;"><strong>Form Products</strong>&nbsp;is a plugin of&nbsp;<a title="Blue Form Builder | Magento 2 Form Builder" href="https://www.blueformbuilder.com" target="_blank">Magento 2 Blue Form Builder</a>.&nbsp;After installation, it will be integrated with existing Blue Form Builder extension on your website.</p>
-                <span class="compatibility"><b>Community Edition:</b> 2.0.x - 2.2.x
-                <b>Enterprise Edition:</b> 2.0.x - 2.2.x</span>
+                              <br><br/>
+                           <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;">* <strong>Form Products</strong>&nbsp;is a plugin of&nbsp;<a title="Blue Form Builder | Magento 2 Form Builder" href="https://www.blueformbuilder.com" target="_blank">Magento 2 Blue Form Builder</a>.&nbsp;After installation, it will be integrated with existing Blue Form Builder extension on your website.</p>
+                <span class="compatibility"><b>Community Edition:</b> 2.0.x - 2.3.x
+                <b>Enterprise Edition:</b> 2.0.x - 2.3.x</span>
                 </td>
                 </tr>
                 </table>
@@ -176,12 +177,26 @@
 <div class="panel">
 <p>If you have any questions or need any support, feel free to contact us via following ways. We will get back to you within 24 hours since you submit your support request.</p>
 <ul class="firebase-list">
-<li>Fill out <a title="Contact via contact form" href="https://www.magezon.com/contact/" target="_blank" rel="nofollow">Contact Us</a> form and submit to us.</li>
+<li>Submit <a title="Contact via contact form" href="https://www.magezon.com/contact/" target="_blank" rel="nofollow">contact form</a>.</li>
 <li>Email us at <a title="Contact via email" href="mailto:support@magezon.com" rel="nofollow">support@magezon.com</a>.</li>
 <li>Submit a<a title="Contact via ticket" href="https://magezon.ticksy.com/" target="_blank" rel="nofollow"> ticket</a>.</li>
-<li>Contact us through <a title="Contact via Skype" href="skype:support@magezon.com" rel="nofollow">Skype</a>.</li>
-<li>Contact us on live chat: support@magezon.com.</li>
+<li>Contact us through <a title="Contact via Skype" href="skype:support@magezon.com" rel="nofollow">Skype</a>: support@magezon.com.</li>
+<li>Contact us via live chat on our website: https://www.magezon.com</li>
 </ul>
 </div>
 </div>
 </div>
+<h2>Magezon Extensions</h2>
+<div>
+ <ul class="firebase-list">
+ 	<li><a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Form Builder</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-mega-menu.html">Magento 2 Mega Menu</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html">Magento 2 Ajax Cart</a></li>
+     <li><a href="https://www.magezon.com/magento-2-lazy-load.html">Magento 2 Lazy Load</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-mega-menu.html">Magento 2 Tabs</a></li>
+ 	<li><a href="https://www.magezon.com/product-labels.html">Magento 2 Product Labels</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-customer-attachments.html">Magento 2 Customer Attachments</a></li>
+  <li><a href="https://www.magezon.com/configurable-product-matrix.html">Magento 2 Configurable Product Matrix</a></li>
+</ul>
+ 
