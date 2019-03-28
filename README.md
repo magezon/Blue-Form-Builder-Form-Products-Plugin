@@ -24,7 +24,6 @@
                                 <li><a class="ablack" href="#choose-position-to-display-form-on-product-page">Choose position to display form on product page</a></li>
                                 <li><a class="ablack" href="#design-popup-button-and-link-text">Design popup button and link text</a></li>
                             </ul>
-
                         <div>Here are forms that are commonly added to the product page: Request for quotation form, FAQ form, Request a call back form and Ticket form. </div>
                         <br><br/>
                         <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;">* <strong>Form Products</strong>&nbsp;is a plugin of&nbsp;<a title="Blue Form Builder | Magento 2 Form Builder" href="https://www.blueformbuilder.com" target="_blank">Magento 2 Blue Form Builder</a>.&nbsp;After installation, it will be integrated with existing Blue Form Builder extension on your website.</p>
