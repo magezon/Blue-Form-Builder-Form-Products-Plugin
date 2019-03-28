@@ -1,6 +1,6 @@
 <div class="page-title-wrapper product">
     <h1 class="page-title ">
-        <span>Form Products Plugin | Blue Form Builder </span>
+        <a href="https://www.magezon.com/blue-form-builder-form-products.html"> <span>Form Products Plugin | Blue Form Builder </span></a>
     </h1>
 </div>
 <br/>
@@ -10,7 +10,7 @@
       border: none;
   ">
             <br>
-            <br><a href="https://www.magezon.com/magento-2-form-builder.html">
+            <br><a href="https://www.magezon.com/blue-form-builder-form-products.html">
             <img src="https://www.magezon.com/pub/media/catalog/product/f/o/form-products.png" alt="Form Products" aria-labelledby="labelledby1540623254650" class="fotorama__img" aria-hidden="false"/>
         <td style="border:none;">
             <br>
@@ -25,7 +25,6 @@
                                 <li><a class="ablack" href="#design-popup-button-and-link-text">Design popup button and link text</a></li>
                             </ul>
                         <div>Here are forms that are commonly added to the product page: Request for quotation form, FAQ form, Request a call back form and Ticket form. </div>
-                        <br><br/>
                         <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;">* <strong>Form Products</strong>&nbsp;is a plugin of&nbsp;<a title="Blue Form Builder | Magento 2 Form Builder" href="https://www.blueformbuilder.com" target="_blank">Magento 2 Blue Form Builder</a>.&nbsp;After installation, it will be integrated with existing Blue Form Builder extension on your website.</p>
                         <div>
                         <span><b>Community Edition:</b>&nbsp;2.1.x, 2.2.x, 2.3.x
