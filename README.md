@@ -18,7 +18,6 @@
                 <div class="value">
                     <div class="valune">
                         <p dir="ltr"><strong>Form Products</strong><span> plugin allows you to assign forms to specific products. This way, your customers can contact you right from the product page if they have any questions about the product.</span></p>
-
                             <ul class="firebase-list">
                                 <li><a href="#add-forms-toproduct-page">Add forms to product page</a></li>
                                 <li><a href="#supports-3-types-of-form-inline-form-popup-form-and-link-form">Supports 3 types of form: inline form, popup form and link form</a></li>
