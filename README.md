@@ -112,14 +112,13 @@
     <tr>
         <td width="50%">
             <div class="col-md-6">
-                <p><img title="Form Products | Design popup button and link text" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/Form_products___Design_popup_button_and_link_text.gif" alt="Form Products | Design popup button and link text"/></p>
+                <p><img title="Form Products | Design popup button and link text" src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/form-products-design-popup-button-link-text.png"/></p>
             </div>
         </td>
         <td>
             <div class="col-md-6">
                 <h3 <span style="color: #ff5510">4. Design popup button and link text</span></h3>
-                <p>By default, there will be a button on the product page if you want to display a form as popup. When you click the button, the form will pop up. If you choose link form, there will be a link text which when customers click, they will land on the form page.</p>
-                <p>With Form Products plugin, you can design the popup button and link text the way you want:</p>
+                <p>Design popup button (for popup form) and link text (for link form):</p>
                 <ul class="firebase-list">
                     <li>Choose color, color on hover and font size for the text in the button and the link text.</li>
                     <li>Choose background color and background color on hover for the button and link text.</li>
