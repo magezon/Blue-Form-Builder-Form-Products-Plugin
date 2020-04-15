@@ -129,24 +129,34 @@
 </table>
 <br/>
 <h2>Feature Full List</h2>
-<div class="row">
-    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-        <ul>
-            <li><span id="docs-internal-guid-49c6ecc2-7fff-0cd3-8958-34c1c4a7509e"><span>Add forms on product page</span></span></li>
-            <li>Support 3 types of form: inline, pop-up, link form</li>
-            <li>Choose position to display form on product page</li>
-            <li>Design popup button and link text</li>
-        </ul>
-    </div>
-    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-        <ul>
-            <li><span>100% open-source</span></li>
-            <li><span>Easy to install and configure</span></li>
-            <li><span>User-friendly interface</span></li>
-            <li>Free lifetime updates</li>
-        </ul>
-    </div>
-</div><br>
+    <table>
+        <tr>
+            <td width="40%" valign="top">
+                <div class="col-md-6">
+                    <h3><span id="docs-internal-guid-db861003-7fff-4cd8-bbb6-5125f743fa77">Fully Configurable</span></h3>
+                    <ul>
+                        <li>100% Open source</li>
+                        <li>Easy to install and configure</li>
+                        <li>Drag &amp; Drop interface</li>
+                        <li>User-friendly interface</li>
+                        <li>Support multiple store vỉews</li>
+                    </ul>
+                </div>
+            </td>
+            <td width="40%" valign="top">
+                <div class="col-md-6">
+                    <h3><span id="docs-internal-guid-22143795-7fff-79bb-d027-e83bb77d6ef0"><span>Boost sales</span></span></h3>
+                    <ul>
+                        <li><span id="docs-internal-guid-fe316e58-7fff-a283-a7b4-3b7ed8690a7a"><span>Show off product color by swatch</span></span></li>
+                        <li><span id="docs-internal-guid-c0bf1497-7fff-4510-8f50-8d2595355c70"><span>Reduce page loading time by Ajax</span></span></li>
+                        <li><span><span><span id="docs-internal-guid-b8c5950e-7fff-644b-74f5-3f57a5b98fa6"><span>Support all page positions </span></span></span></span></li>
+                        <li><span><span><span><span><span id="docs-internal-guid-44514b68-7fff-831d-c8ae-149b328e87dd"><span>Enhance customer shopping experience</span></span></span></span></span></span></li>
+                        <li><span><span><span><span><span><span><span id="docs-internal-guid-afef932f-7fff-a451-fafc-61e563e17821"><span>Color swatches supported</span></span></span></span></span></span></span></span></li>
+                        <li><span><span><span><span><span><span><span><span><span id="docs-internal-guid-9bd1d169-7fff-cd99-48a9-b6e2a6c35cf2"><span>OWL Carousel enhances customer's experience</span></span></span></span></span></span></span></span></span></span></li>
+                        <li><span><span><span><span><span><span><span><span><span><span><span id="docs-internal-guid-e9b687ac-7fff-ef18-6f21-67bb8e98794c"><span>Auto-related products</span></span></span></span></span></span></span></span></span></span></span></span></li>
+                        <li><span><span><span><span><span><span><span><span><span><span><span><span><span id="docs-internal-guid-215170a9-7fff-2031-940c-0d2b8f4e783f"><span>Bestseller products in the sidebar </span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>
+                        <li><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span id="docs-internal-guid-5303ae12-7fff-4088-8839-aa2cf116431e"><span>Product list on the checkout page</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>
+                    </ul><br>
 <h2>Frequently Asked Questions</h2>
 <p>Do you have any questions about <strong>Form Products</strong> plugin? See the list below for our most frequently asked questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact/" target="_blank" rel="nofollow">contact us</a>.</p>
 <div class="row">
