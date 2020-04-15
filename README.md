@@ -25,7 +25,7 @@
                                 <li><a class="ablack" href="#design-popup-button-and-link-text">Design popup button and link text</a></li>
                             </ul>
                         <div>Here are forms that are commonly added to the product page: Request for quotation form, FAQ form, Request a call back form and Ticket form. </div>
-                        <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;">* <strong>Form Products</strong>&nbsp;is a plugin of&nbsp;<a title="Blue Form Builder | Magento 2 Form Builder" href="https://www.blueformbuilder.com" target="_blank">Magento 2 Blue Form Builder</a>.&nbsp;After installation, it will be integrated with existing Blue Form Builder extension on your website.</p>
+                        <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;"><strong>Form Products</strong> is a plugin of Blue Form Builder extension. Please pre-install <a href="https://www.magezon.com/magento-2-form-builder.html">Blue Form Builder</a>. After that, install Form Products plugin and it will be integrated with existing Blue Form Builder on your website.</p>
                         <div>
                         <span><b>Community Edition:</b>&nbsp;2.1.x, 2.2.x, 2.3.x
                         <br><b>Enterprise Edition:</b>&nbsp;2.1.x, 2.2.x, 2.3.x</span>
@@ -91,20 +91,21 @@
     <tr>
         <td width="50%">
             <div class="col-md-6">
-                <h3 <span style="color: #ff5510">3. Choose position to display form on product page</span></h3>
+                <h3 <span style="color: #ff5510">3. Support 6 positions to display forms</span></h3>
                 <p>Our plugin allows you to choose where on the product page to add the form, including:</p>
                 <ul class="firebase-list">
                     <li>Before social links</li>
                     <li>After social links</li>
                     <li><span>After Add to Cart button</span></li>
                     <li><span>After product name</span></li>
+                    <li>After product form</li>
                     <li>Add new product tab</li>
                 </ul>
             </div>
         </td>
         <td>
             <div class="col-md-6">
-                <p><img title="Form Products | Choose where to display form on product page" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/Form_Products___Choose_position_to_display_form_on_product_page.png" alt="Form Products | Choose where to display form on product page"/></p>
+                <p><img title="Form Products | Choose where to display form on product page" src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/form-products-add-form-after-add-to-cart-button.png" alt="Form Products | Choose where to display form on product page"/></p>
             </div>
         </td>
     </tr>
