@@ -21,7 +21,7 @@
                             <ul class="firebase-list">
                                 <li><a href="#add-forms-toproduct-page">Add forms to product page</a></li>
                                 <li><a href="#supports-3-types-of-form-inline-form-popup-form-and-link-form">Supports 3 types of form: inline form, popup form and link form</a></li>
-                                <li><a class="ablack" href="#choose-position-to-display-form-on-product-page">Choose position to display form on product page</a></li>
+                                <li><a class="ablack" href="#choose-position-to-display-form-on-product-page">Support 6 positions to display forms</a></li>
                                 <li><a class="ablack" href="#design-popup-button-and-link-text">Design popup button and link text</a></li>
                             </ul>
                             <div>Here are forms that are commonly added to the product page: Request for quotation form, FAQ form, Request a call back form and Ticket form. </div>
@@ -50,7 +50,7 @@
             <h2>Feature Highlights </h2>
             <table>
                 <tbody>
-                    <tr>
+                    <tr id="add-forms-toproduct-page">
                         <td width="50%">
                             <div class="col-md-6">
                                 <h3 <span style="color: #ff5510"> 1. Add forms on product page</h3>
@@ -70,7 +70,7 @@
                                 </div>
                             </td>
                         </tr>
-                        <tr>
+                        <tr id="supports-3-types-of-form-inline-form-popup-form-and-link-form">
                             <td width="50%">
                                 <div class="col-md-6">
                                     <p><img title="Form Products | 3 types of form" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/Form_Products___3_types_of_form.gif" alt="Form Products | 3 types of form"/></p>
@@ -88,7 +88,7 @@
                                 </div>
                             </td>
                         </tr>
-                        <tr>
+                        <tr id="choose-position-to-display-form-on-product-page">
                             <td width="50%">
                                 <div class="col-md-6">
                                     <h3 <span style="color: #ff5510">3. Support 6 positions to display forms</span></h3>
@@ -109,7 +109,7 @@
                                 </div>
                             </td>
                         </tr>
-                        <tr>
+                        <tr id="design-popup-button-and-link-text">
                             <td width="50%">
                                 <div class="col-md-6">
                                     <p><img title="Form Products | Design popup button and link text" src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/form-products-design-popup-button-link-text.png"/></p>
@@ -135,23 +135,20 @@
                                 <div class="col-md-6">
                                     <h3><span id="docs-internal-guid-db861003-7fff-4cd8-bbb6-5125f743fa77">Fully Configurable</span></h3>
                                     <ul>
-                                        <li>100% Open source</li>
-                                        <li>Easy to install and configure</li>
-                                        <li>Drag &amp; Drop interface</li>
-                                        <li>User-friendly interface</li>
-                                        <li>Support multiple store vỉews</li>
+                                        <li>Add forms on product pages</li>
+                                        <li>Support 3 form types: popup, inline & link form</li>
+                                        <li>Support 6 positions to display forms</li>
+                                        <li>Design popup button and link text</li>
                                     </ul>
                                 </div>
                             </td>
                             <td width="40%" valign="top">
                                 <div class="col-md-6">
-                                   <h3><span id="docs-internal-guid-db861003-7fff-4cd8-bbb6-5125f743fa77">Fully Configurable</span></h3>
                                    <ul>
                                     <li>100% Open source</li>
                                     <li>Easy to install and configure</li>
-                                    <li>Drag &amp; Drop interface</li>
                                     <li>User-friendly interface</li>
-                                    <li>Support multiple store vỉews</li>
+                                    <li>Free lifetime updates</li>
                                 </ul>
                             </div>
                         </td>
@@ -192,37 +189,62 @@
                             </div>
                             <h3><button class="accordion"> How can I get your support?</button></h3>
                             <div class="panel">
-                                <p>If you have any questions or need any support, feel free to contact us via following ways. We will get back to you within 24 hours since you submit your support request.</p>
-                                <ul class="firebase-list">
-                                    <li>Submit <a title="Contact via contact form" href="https://www.magezon.com/contact/" target="_blank" rel="nofollow">contact form</a>.</li>
-                                    <li>Email us at <a title="Contact via email" href="mailto:support@magezon.com" rel="nofollow">support@magezon.com</a>.</li>
-                                    <li>Submit a<a title="Contact via ticket" href="https://magezon.ticksy.com/" target="_blank" rel="nofollow"> ticket</a>.</li>
-                                    <li>Contact us through <a title="Contact via Skype" href="skype:support@magezon.com" rel="nofollow">Skype</a>: support@magezon.com.</li>
-                                    <li>Contact us via live chat on our website: https://www.magezon.com</li>
-                                </ul>
-                            </div>
+                                <p>
+                                    If you have any questions or need any support, feel free to contact us via following ways. We will get back to you within 24 hours since you submit your support request.
+                                </p>
+                                <li>Fill out <a href="https://www.magezon.com/contact">Contact Us</a> form and submit to us.</li>
+                                <li>Email us at <a href="Email us at support@magezon.com.">support@magezon.com.</a>
+                                </li>
+                                <li>Submit a <a href="https://magezon.ticksy.com/"> ticket.</a>
+                                </li>
+                                <li>Contact us through Skype: support@magezon.com.</li>
+                                <li>Contact us via live chat on <a href="https://www.magezon.com/">Our Website</a>.</li>
+                            </ul>
                         </div>
                     </div>
-                    <br>
-                    <div>
-                        <h2>Magezon Extensions</h2>
-                        <ul>
-                            <li><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html" rel="nofollow">Magento 2 Page
-                            Builder</a></li>
-                            <li><a href="https://www.magezon.com/magento-2-single-product-page-builder.html" rel="nofollow">Magento 2 Single
-                            Product Page Builder</a></li>
-                            <li><a href="https://www.magezon.com/magento-2-form-builder.html" rel="nofollow">Magento 2 Form Builder</a></li>
-                            <li><a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a></li>
-                            <li><a href="https://www.magezon.com/magento-2-shop-by-brand.html" rel="nofollow">Magento 2 Shop By Brand</a>
-                            </li>
-                            <li><a href="https://www.magezon.com/product-labels.html" rel="nofollow">Magento 2 Product Labels</a></li>
-                            <li><a href="https://www.magezon.com/magento-2-quick-order.html" rel="nofollow">Magento 2 Quick Order</a></li>
-                            <li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html" rel="nofollow">Magento 2 Ajax Cart</a></li>
-                            <li><a href="https://www.magezon.com/magento-2-lazy-load.html/" rel="nofollow">Magento 2 Lazy Load</a></li>
-                            <li><a href="https://www.magezon.com/magento-2-tabs-pro.html/" rel="nofollow">Magento 2 Tabs</a></li>
-                            <li><a href="https://www.magezon.com/magento-2-customer-attachments.html" rel="nofollow">Magento 2 Customer
-                            Attachments</a></li>
-                            <li><a href="https://www.magezon.com/configurable-product-matrix.html" rel="nofollow">Magento 2 Configurable
-                            Product Matrix</a></li>
-                        </ul>
-                    </div>
+                </div>
+                <br>
+                <div class="extensions">
+                    <h2>Magezon Extensions</h2>
+                    <ul class="firebase-list">
+                        <li>
+                            <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Magento 2 Single Product Page Builder</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Form Builder</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-popup-builder.html">Magento 2 Popup Builder</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/product-labels.html">Magento 2 Product Labels</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-quick-order.html">Magento 2 Quick Order</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-ajax-cart-pro.html">Magento 2 Ajax Cart</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-lazy-load.html/">Magento 2 Lazy Load</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-tabs-pro.html/">Magento 2 Tabs</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-customer-attachments.html">Magento 2 Customer Attachments</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/configurable-product-matrix.html">Magento 2 Configurable Product Matrix</a>
+                        </li>
+                    </ul>
+                </div>
